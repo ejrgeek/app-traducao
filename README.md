@@ -1,6 +1,8 @@
 # Mini Tradutor de Textos
 
-Projeto destinado aos alunos de primeiro périodo ou iniciantes em python
+Projeto destinado aos alunos de primeiro périodo ou iniciantes em python. 
+
+O projeto foi desenvolvido para apresentar as tecnologias: python, streamlit e googletrans. Permite aos utilizadores digitar um texto em um idioma e traduzi-lo automaticamente para outro idioma usando a biblioteca de tradução do Google Translate.
 
 ## Descrição do Projeto
 Permite aos utilizadores digitar um texto em um idioma e traduzi-lo automaticamente para outro idioma usando a biblioteca de tradução do Google Translate.
