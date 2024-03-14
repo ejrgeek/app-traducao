@@ -1,5 +1,7 @@
 # Mini Tradutor de Textos
 
+Projeto destinado aos alunos de primeiro périodo ou iniciantes em python
+
 ## Descrição do Projeto
 Permite aos utilizadores digitar um texto em um idioma e traduzi-lo automaticamente para outro idioma usando a biblioteca de tradução do Google Translate.
 
